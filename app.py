@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Nguyueenx Tùng Dương - Trường Tiểu học Bạch Xa - ĐT: 097 8549770</p>
+    <p>Tác giả: Nguyễn Tùng Dương - Trường Tiểu học Bạch Xa - ĐT: 097 8549770</p>
 </div>
 """, unsafe_allow_html=True)
 
